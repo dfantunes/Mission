@@ -25,14 +25,13 @@
 **Mini-história:** o primeiro freela que deu certo/errado e o que aprendi (spoiler: contrato salva).  
 **Promessa:** um playbook prático — o que fazer, o que evitar e como ganhar sem perder o emprego (e a sanidade).
 
-> Slide: foto sua + 3 bullets de “aprendi na marra”  
 > *Ex.: escopo aberto mata, combinar antes salva, overcommunication é amor.*
 
 ![gif the office it's happening](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
-## 3–8 min — Por que freela? (e quando NÃO fazer)
+## Por que freela? (e quando NÃO fazer)
 **Motivações boas**
 - Diversificar renda (mais 💸, menos risco).
 - Aprender “na vida real” e turbinar portfólio.
@@ -50,7 +49,7 @@
 
 ---
 
-## 8–14 min — Modelos de freela & posicionamento
+## Modelos de freela & posicionamento
 **Três jeitos de atuar**
 1) **Hora vendida** — rápido pra começar, difícil escalar.  
 2) **Pacote/Produto** — escopo fechado: “Auditoria Power BI em 10h”.  
@@ -69,7 +68,7 @@
 
 ---
 
-## 14–20 min — Regras do jogo (ética, legal e contrato)
+## Regras do jogo (ética, legal e contrato)
 **Conflito de interesse**
 - Não use laptop, e-mail, nem horário do empregador. Zero, nopes, nadinha.
 - Se o cliente é concorrente do seu empregador… *não é cliente, é problema.*
@@ -89,7 +88,7 @@
 
 ---
 
-## 20–26 min — Operar sem surtar (tempo, energia, família)
+## Operar sem surtar (tempo, energia, família)
 **Agenda realista**
 - 2–3 blocos fixos/semana (ex.: 2 noites + 1 manhã de sábado).  
 - Domingo é sagrado (para viver e não virar um *gremlin*).
@@ -111,7 +110,7 @@
 
 ---
 
-## 26–30 min — Dinheiro e proposta
+## Dinheiro e proposta
 **Preço mínimo viável**
 ```
 Preço/hora alvo = (meta mensal + custos) / horas faturáveis
@@ -137,14 +136,11 @@ Próximos passos: enviar dados X, assinar proposta, emitir sinal
 
 ---
 
-## 30–35 min — Q&A (ou exercício relâmpago)
+## Q&A (ou exercício relâmpago)
 **3 perguntas que SEMPRE aparecem**
 1. “E se meu empregador não curtir?” → transparência e limites, ou não faça.  
 2. “Como achar clientes?” → portfólio enxuto, pedir indicações, postar *before/after*.  
 3. “E o burnout?” → calendário manda em você (e não o contrário).
-
-**Exercício 3 min**
-- Esboce um pacote “produto” do seu skill com: problema, entrega, prazo, preço.
 
 ![gif thumbs up](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
 
