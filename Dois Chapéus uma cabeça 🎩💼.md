@@ -3,13 +3,13 @@
 **Como equilibrar o emprego fixo com freelas sem pirar (nem queimar pontes).**  
 
 
-> “Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando você inventa de usar tochas.” — eu mesmo, depois do terceiro café
+> “Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando você inventa de usar tochas.” ... Eu depois do terceiro café..
 
 ![gif malabarismo](https://media.giphy.com/media/HuUE1QFyDSiA17FIFZ/giphy.gif)
 
 ---
 
-## Roteiro
+## Agenda
 1. Abertura que conecta
 2. Por que freela? (e quando NÃO)
 3. Modelos de freela & posicionamento
@@ -70,20 +70,20 @@
 
 ## Regras do jogo (ética, legal e contrato)
 **Conflito de interesse**
-- Não use laptop, e-mail, nem horário do empregador. Zero, nopes, nadinha.
+- Não use laptop, e-mail, nem horário?! do empregador. Zero, nopes, nadinha.
 - Se o cliente é concorrente do seu empregador… *não é cliente, é problema.*
 
 **Confidencialidade & Propriedade Intelectual**
 - NDA simples (uma página resolve 90% dos casos).
 - Cláusula de **IP** clara: quem fica com o quê.
 
-**Faturação/Impostos (Portugal, em linhas gerais — confirme com um contabilista!)**
+**Faturação/Impostos (Portugal, em linhas gerais, confirme SEMPRE com um contabilista!)**
 - **Recibos Verdes** ou **Ato Isolado** (para casos pontuais).  
 - Categoria correta → contribuições → retenção. (Não vire estatística do fisco 😅)
 
-**Check com RH/Jurídico**
-- Aliados > esconderijo. Uma conversa evita dor de cabeça e fofoca.
-
+**No Brasil .. confirme SEMPRE com um contador**
+- **Notas Fiscais** ou **Ato Isolado** (para casos pontuais).
+- 
 > Não é aconselhamento legal; é sobrevivência básica.
 
 ---
