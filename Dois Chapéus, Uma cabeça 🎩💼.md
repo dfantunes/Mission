@@ -45,7 +45,7 @@
 **Regra 7h/semana:** se não consegue reservar 7h consistentes/semana, adie.  
 **Bússola:** freela deve **acelerar** sua carreira, não sabotá-la.
 
-![gif nope](https://media.giphy.com/media/3o6ZsX2Y3eG8WwQpaw/giphy.gif)
+![gif nope](https://media.giphy.com/media/JYZ397GsFrFtu/giphy.gif)
 
 ---
 
