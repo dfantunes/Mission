@@ -1,4 +1,4 @@
-# Dois Chapéus, Uma cabeça 🎩💼
+# Dois Chapéus uma cabeça 🎩💼
 
 **Como equilibrar o emprego fixo com freelas sem pirar (nem queimar pontes).**  
 
