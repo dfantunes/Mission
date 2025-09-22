@@ -5,11 +5,11 @@
 
 > “Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando você inventa de usar tochas.” — eu mesmo, depois do terceiro café
 
-![gif malabarismo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![gif malabarismo](https://media.giphy.com/media/travisband-HuUE1QFyDSiA17FIFZ/giphy.gif)
 
 ---
 
-## Roteiro rápido (para você não se perder)
+## Roteiro
 1. Abertura que conecta
 2. Por que freela? (e quando NÃO)
 3. Modelos de freela & posicionamento
