@@ -5,7 +5,7 @@
 
 > “Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando você inventa de usar tochas.” — eu mesmo, depois do terceiro café
 
-![gif malabarismo](https://media.giphy.com/media/travisband-HuUE1QFyDSiA17FIFZ/giphy.gif)
+![gif malabarismo](https://media.giphy.com/media/HuUE1QFyDSiA17FIFZ/giphy.gif)
 
 ---
 
