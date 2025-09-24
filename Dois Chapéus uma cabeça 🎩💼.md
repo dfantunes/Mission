@@ -77,7 +77,6 @@
 
 **No Brasil .. confirme SEMPRE com um contador**
 - **Notas Fiscais** ou **Ato Isolado** (vale a pena ?).
-- 
 > Não é aconselhamento legal; é sobrevivência básica.
 
 ---
