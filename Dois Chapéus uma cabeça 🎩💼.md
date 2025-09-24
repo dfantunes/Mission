@@ -1,6 +1,6 @@
 # Dois Chapéus uma cabeça 🎩💼
 
-**Como equilibrar o emprego fixo com freelas sem pirar (nem queimar pontes).**  
+**Como equilibrar o emprego fixo com freelas sem pirar.**  
 
 
 > “Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando você inventa de usar tochas.” ... Eu depois do terceiro café..
@@ -10,21 +10,15 @@
 ---
 
 ## Agenda
-1. Abertura que conecta
-2. Por que freela? (e quando NÃO)
-3. Modelos de freela & posicionamento
-4. Regras do jogo — ética, legal, contrato
-5. Operar sem surtar — tempo, energia, família
-6. Dinheiro e proposta
-7. Q&A / exercício relâmpago
-8. Bônus: checklists e templates (para copiar/colar)
+1. Por que freela? (e quando NÃO)
+2. Modelos de freela & posicionamento
+3. Regras do jogo — ética, legal, contrato
+4. Operar sem surtar — tempo, energia, família
+5. Dinheiro e proposta
+6. Q&A / exercício relâmpago
+7. Bônus: checklists e templates (para copiar/colar)
    
 ---
-
-##  Abertura que conecta
-**Mini-história:** o primeiro freela que deu certo/errado e o que aprendi (spoiler: contrato salva).  
-**Promessa:** um playbook prático — o que fazer, o que evitar e como ganhar sem perder o emprego (e a sanidade).
-
 > *Ex.: escopo aberto mata, combinar antes salva, overcommunication é amor.*
 
 ![gif the office it's happening](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
@@ -42,8 +36,8 @@
 - Vida pessoal no modo caos.
 - A empresa proíbe — ou há conflito óbvio.
 
-**Regra 7h/semana:** se não consegue reservar 7h consistentes/semana, adie.  
-**Bússola:** freela deve **acelerar** sua carreira, não sabotá-la.
+**7h/semana:** se não consegue reservar 7h consistentes/semana, adie.  
+**Termômetro:** freela deve **acelerar** sua carreira, não sabotá-la.
 
 ![gif nope](https://media.giphy.com/media/JYZ397GsFrFtu/giphy.gif)
 
@@ -70,19 +64,19 @@
 
 ## Regras do jogo (ética, legal e contrato)
 **Conflito de interesse**
-- Não use laptop, e-mail, nem horário?! do empregador. Zero, nopes, nadinha.
+- Não use periféricos, e-mail, nem horário?! do empregador. Zero, nopes, nadinha.
 - Se o cliente é concorrente do seu empregador… *não é cliente, é problema.*
 
 **Confidencialidade & Propriedade Intelectual**
 - NDA simples (uma página resolve 90% dos casos).
-- Cláusula de **IP** clara: quem fica com o quê.
+- Cláusula de **Propriedade** clara: quem fica com o quê!
 
 **Faturação/Impostos (Portugal, em linhas gerais, confirme SEMPRE com um contabilista!)**
 - **Recibos Verdes** ou **Ato Isolado** (para casos pontuais).  
 - Categoria correta → contribuições → retenção. (Não vire estatística do fisco 😅)
 
 **No Brasil .. confirme SEMPRE com um contador**
-- **Notas Fiscais** ou **Ato Isolado** (para casos pontuais).
+- **Notas Fiscais** ou **Ato Isolado** (vale a pena ?).
 - 
 > Não é aconselhamento legal; é sobrevivência básica.
 
@@ -91,7 +85,7 @@
 ## Operar sem surtar (tempo, energia, família)
 **Agenda realista**
 - 2–3 blocos fixos/semana (ex.: 2 noites + 1 manhã de sábado).  
-- Domingo é sagrado (para viver e não virar um *gremlin*).
+- Domingo é sagrado (para viver e não virar uma *múmia*).
 
 **Processo mínimo viável**
 - **Kanban pessoal**: *Entrada → Em Progresso → Entregue* (máx. 3 tarefas em progresso).  
@@ -120,7 +114,7 @@ Preço/hora alvo = (meta mensal + custos) / horas faturáveis
 **Tabela de pacotes (exemplo)**
 | Plano | Entregas | Prazo | Investimento |
 |---|---|---:|---:|
-| Start | Auditoria + 5 recomendações | 5 dias | 490€ |
+| Basic | Auditoria + 5 recomendações | 5 dias | 490€ |
 | Pro | Auditoria + 5 recomendações + 2h mentoring | 7 dias | 790€ |
 | Premium | Tudo do Pro + implementação rápida (4h) | 10 dias | 1.190€ |
 
@@ -171,25 +165,6 @@ Próximos passos: enviar dados X, assinar proposta, emitir sinal
 > Olá, [Nome]! Para garantir o arranque na data combinada, envio o link para o sinal de [30/50%]. Assim que confirmar, já abrimos o quadro e alinhamos o kickoff. 🚀
 
 ---
-
-## Slide Deck sugerido (12–14)
-1. Título + promessa  
-2. Quem sou eu (3 bullets “aprendi na marra”)  
-3. Por que (e quando não)  
-4. Modelos de freela  
-5. Escolha do nicho  
-6. Proposta de valor (template)  
-7. Ética e conflito de interesse  
-8. Contratos/NDA (essencial)  
-9. Tempo/rotina (agenda modelo)  
-10. Ferramentas leves  
-11. Pricing & pacotes (tabela)  
-12. Riscos & antídotos  
-13. Checklist pré-voo  
-14. Chamada à ação + Q&A
-
----
-
 ### Fecho
 Se der medo, vai com medo mesmo — **mas com contrato**.  
 Agora respira, manda o sinal, e **boa entrega**. ✨
