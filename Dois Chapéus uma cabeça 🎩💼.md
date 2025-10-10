@@ -3,7 +3,10 @@
 **Como equilibrar o emprego fixo com freelas sem pirar.**  
 
 
-> “Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando você inventa de usar tochas.” ... Eu depois do terceiro café..
+
+
+
+> Trabalhar em dois lugares é tipo malabarismo: lindo quando dá certo, perigoso quando usamos tochas.
 
 ![gif malabarismo](https://media.giphy.com/media/HuUE1QFyDSiA17FIFZ/giphy.gif)
 
@@ -12,14 +15,15 @@
 ## Agenda
 1. Por que freela? (e quando NÃO)
 2. Modelos de freela & posicionamento
-3. Regras do jogo — ética, legal, contrato
-4. Operar sem surtar — tempo, energia, família
+3. Regras do jogo (ética, legal, contrato)
+4. Operar sem surtar (tempo, energia, família)
 5. Dinheiro e proposta
-6. Q&A / exercício relâmpago
-7. Bônus: checklists e templates (para copiar/colar)
+
+
+
    
 ---
-> *Ex.: escopo aberto mata, combinar antes salva, overcommunication é amor.*
+> *Ex.: escopo aberto mata, combinar antes salva.*
 
 ![gif the office it's happening](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
@@ -45,7 +49,7 @@
 
 ## Modelos de freela & posicionamento
 **Três jeitos de atuar**
-1) **Hora vendida** — rápido pra começar, difícil escalar.  
+1) **Hora vendida** — rápido pra começar.
 2) **Pacote/Produto** — escopo fechado: “Auditoria Power BI em 10h”.  
 3) **Retainer (mensal)** — previsibilidade, relacionamento longo.
 
@@ -64,20 +68,20 @@
 
 ## Regras do jogo (ética, legal e contrato)
 **Conflito de interesse**
-- Não use periféricos, e-mail, nem horário?! do empregador. Zero, nopes, nadinha.
+- Não use periféricos, e-mail, nem horário.. do seu trabalho principal. A chance de dar ruim, é alta.
 - Se o cliente é concorrente do seu empregador… *não é cliente, é problema.*
 
 **Confidencialidade & Propriedade Intelectual**
-- NDA simples (uma página resolve 90% dos casos).
+- NDA simples (uma página resolve 90% dos casos) e geralmente a empresa tem, se não tiver, existem templates na net.
 - Cláusula de **Propriedade** clara: quem fica com o quê!
 
 **Faturação/Impostos (Portugal, em linhas gerais, confirme SEMPRE com um contabilista!)**
 - **Recibos Verdes** ou **Ato Isolado** (para casos pontuais).  
-- Categoria correta → contribuições → retenção. (Não vire estatística do fisco 😅)
+- Categoria correta → contribuições → retenção. (Melhor previnir 😅)
 
 **No Brasil .. confirme SEMPRE com um contador**
 - **Notas Fiscais** ou **Ato Isolado** (vale a pena ?).
-> Não é aconselhamento legal; é sobrevivência básica.
+> Não é serviço de consultoria, é previnir problemas futuros.
 
 ---
 
@@ -165,7 +169,7 @@ Próximos passos: enviar dados X, assinar proposta, emitir sinal
 
 ---
 ### Fecho
-Se der medo, vai com medo mesmo — **mas com contrato**.  
+Se der medo, vai com medo mesmo — **mas com contrato/garantia**.  
 Agora respira, manda o sinal, e **boa entrega**. ✨
 
 > P.S.: Nenhuma *excelência técnica* sobrevive a um *escopo aberto*. Proteja-se.
