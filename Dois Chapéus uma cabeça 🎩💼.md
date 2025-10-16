@@ -213,3 +213,5 @@ Se der medo, vai com medo mesmo — **mas com contrato/garantia**.
 Agora respira, manda o sinal, e **boa entrega**. ✨
 
 > P.S.: Nenhuma *excelência técnica* sobrevive a um *escopo aberto*. Proteja-se.
+
+![gif finish](https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif)
